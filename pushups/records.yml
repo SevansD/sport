@@ -1,0 +1,14 @@
+max_failure: 12
+working_set: 9
+
+best_volume_day: 40
+total_pushups: 40
+training_days: 1
+
+personal_records:
+  max_failure:
+    value: 12
+    date: 2026-08-07
+  volume:
+    value: 40
+    date: 2026-08-07
